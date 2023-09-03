@@ -1,5 +1,5 @@
 const typedSpan = document.getElementById("typed")
-const totype = ["GIS Analyst", "Data Analyst", "Programmer", "Photographer"]
+const totype = ["GIS Analyst", "Data Analyst", "Human"]
 
 const delayTyping_char = 200;
 const delayErasing_text = 150;
